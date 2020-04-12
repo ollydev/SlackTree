@@ -1,0 +1,5 @@
+/lib
+/backup
+*.so
+*.dll
+*.dylib

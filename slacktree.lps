@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="64"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="slacktree.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="16" Y="10"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="slacktree.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="types.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="23"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="tree.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="414"/>
+        <CursorPos X="79" Y="434"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="SimbaPlugin.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="89"/>
+        <CursorPos X="18" Y="127"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="18" HistoryIndex="17">
+      <Position1>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="18" Column="32"/>
+      </Position1>
+      <Position2>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="89" Column="8" TopLine="55"/>
+      </Position2>
+      <Position3>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="80" Column="28" TopLine="55"/>
+      </Position3>
+      <Position4>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="76" Column="19" TopLine="55"/>
+      </Position4>
+      <Position5>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="27" Column="10" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="54" Column="93" TopLine="34"/>
+      </Position6>
+      <Position7>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="59" Column="64" TopLine="38"/>
+      </Position7>
+      <Position8>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="69" Column="25" TopLine="48"/>
+      </Position8>
+      <Position9>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="107" Column="18" TopLine="73"/>
+      </Position9>
+      <Position10>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="12" Column="13"/>
+      </Position10>
+      <Position11>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="37" Column="56" TopLine="21"/>
+      </Position11>
+      <Position12>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="111" Column="96" TopLine="82"/>
+      </Position12>
+      <Position13>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="110" Column="128" TopLine="82"/>
+      </Position13>
+      <Position14>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="78" Column="83" TopLine="64"/>
+      </Position14>
+      <Position15>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="17" Column="11"/>
+      </Position15>
+      <Position16>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="111" Column="158" TopLine="79"/>
+      </Position16>
+      <Position17>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="77" Column="11" TopLine="59"/>
+      </Position17>
+      <Position18>
+        <Filename Value="slacktree.lpr"/>
+        <Caret Line="86" Column="32" TopLine="67"/>
+      </Position18>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
